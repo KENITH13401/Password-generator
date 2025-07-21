@@ -1,0 +1,35 @@
+# 🔐 Password Generator & Strength Checker - Python GUI
+
+A simple yet powerful **Password Generator** with real-time **Strength Checker**, built using **Python Tkinter**. This tool helps you generate secure passwords and check their strength instantly.
+
+---
+
+## 🚀 Features
+
+- ✅ Generate strong passwords with:
+  - Lowercase letters
+  - Uppercase letters
+  - Numbers
+  - Special characters
+
+- ✅ Strength meter with progress bar
+- ✅ Copy password to clipboard
+- ✅ User-friendly Tkinter GUI
+
+---
+
+## 🖥️ GUI Preview
+
+> *(Insert screenshot of the app here)*
+
+---
+
+## 📦 Requirements
+
+- Python 3.x
+- `pyperclip` library (for clipboard functionality)
+
+Install dependencies using:
+
+```bash
+pip install -r requirements.txt
